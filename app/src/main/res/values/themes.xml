@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Thème principal -->
+    <style name="Theme.Projetws" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+
+    <!-- Style texte -->
+    <style name="text">
+        <item name="android:textSize">17sp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+    </style>
+
+    <!-- Style input -->
+    <style name="input">
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>
