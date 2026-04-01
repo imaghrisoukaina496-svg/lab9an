@@ -56,6 +56,11 @@ Affichage des résultats dans Logcat
 🎥 Vidéo démonstrative
 
 
+
+https://github.com/user-attachments/assets/c461b69b-0fc4-461e-b29d-c8fee53e9e03
+
+
+
 ⚙️ Instructions d'installation
 Prérequis
 
